@@ -1,5 +1,5 @@
-AngularJS GitHub Pages
-======================
+AngularJS Parse Boilerplate
+===========================
 
 [Demo :-)](http://jbeurel.github.io/angular-parse-boilerplate)
 

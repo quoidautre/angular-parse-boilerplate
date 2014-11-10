@@ -1,7 +1,7 @@
 AngularJS GitHub Pages
 ======================
 
-[Demo :-)](http://jbeurel.github.io/angular-github-pages)
+[Demo :-)](http://jbeurel.github.io/angular-parse-boilerplate)
 
 # Technologies
 

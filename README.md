@@ -34,15 +34,21 @@ The livereload update your browser each time you change source files.
 
 # Deploy 
 
-on GitHub Pages
+## GitHub Pages
 
   `npm run-script deploy-client`
 
-on Parse
+## Parse.com
+
+The first time, install Parse CLI
+
+  `curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash`
+
+and
 
   `npm run-script deploy-server`
   
-both
+## both
 
   `npm run-script deploy`
   

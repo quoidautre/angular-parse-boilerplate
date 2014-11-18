@@ -4,6 +4,10 @@ AngularJS Parse Boilerplate
 
 [Demo :-)](http://jbeurel.github.io/angular-parse-boilerplate)
 
+# Use cases 
+
+ * https://github.com/jbeurel/rider-ranking - Use Instagram to rank BMX riders by number of followers
+
 # Technologies
 
 ## Languages
